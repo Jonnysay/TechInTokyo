@@ -1,37 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jonathan Say
+
+# Username (this should match the folder name)
+authors:
+- Jonathan Say
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Python Instructor
+role: Tech Recruiter
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Ranstad Japan
+  url: "https://www.randstad.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My mission is to connect great people with great companies.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Technology
+- Sports
+- Gaming
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master's in International Relations
+    institution: Tokyo University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,23 +39,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:test@example.org'
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/jonathansay/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Jonnysay
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Teachers
+- Recruiters
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm originally from Germany and came to Japan in 2015 for a Master’s degree in International Relations at the University of Tokyo. After graduating I started to work as an IT recruiter in the international startup and tech space here in Tokyo. Learning about new technologies and having the opportunity to support people with their career choices are the reasons that get me out of bed every morning.
