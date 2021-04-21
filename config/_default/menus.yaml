@@ -8,11 +8,11 @@ main:
     url: '/'
     weight: 10
   - name: Articles
-    url: '/articles'
+    url: '#toparticles'
     weight: 20
   - name: Jobs
     url: '/jobs'
     weight: 30
-  - name: Contact
-    url: '/contact'
+  - name: About
+    url: '#people'
     weight: 60
