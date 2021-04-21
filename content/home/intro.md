@@ -13,11 +13,10 @@ weight: 1
 title: Hello
 
 # Section subtitle
-subtitle:
+subtitle: blah blah blah
 
 # Section design
 design:
-  # Use a 1-column layout
   columns: "2"
   background:
     # Name of image in `assets/media/`.
@@ -25,7 +24,7 @@ design:
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: cover
+    image_size: contain
     # Options include `left`, `center` (default), or `right`.
     image_position: left
     # Use a fun parallax-like fixed background effect on desktop? true/false
