@@ -27,4 +27,5 @@ design:
     # Options include `left`, `center` (default), or `right`.
     image_position: left
     
+    text_color_light: true
 ---
