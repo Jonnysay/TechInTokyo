@@ -21,7 +21,7 @@ design:
     image_darken: 0.6
     
     #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: cover
+    image_size: actual
     
     # Options include `left`, `center` (default), or `right`.
     image_position: center
