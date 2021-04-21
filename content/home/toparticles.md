@@ -1,5 +1,7 @@
+---
 widget: featured
 headless: true  # This file represents a page section.
+weight: 2
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -22,3 +24,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+
+---
