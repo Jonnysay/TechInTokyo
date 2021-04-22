@@ -7,7 +7,7 @@ authors:
 draft: false
 featured: true
 image:
-  filename: salary_guide.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 summary: >-
