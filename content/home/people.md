@@ -22,3 +22,5 @@ design:
   show_role: true
   show_social: true
 ---
+
+We (Jon and Shaun) are two tech recruiters working at Randstad in Tokyo and...
