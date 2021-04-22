@@ -2,7 +2,7 @@
 title: COVID Update Tokyo
 date: 2021-04-22T15:07:44.729Z
 draft: false
-featured: true
+featured: false
 tags:
   - article
 image:
