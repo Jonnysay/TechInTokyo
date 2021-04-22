@@ -5,7 +5,7 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Articles
-weight: 3
+weight: 10
 
 content:
   # Page type to display. E.g. post, event, or publication.
