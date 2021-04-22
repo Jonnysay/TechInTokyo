@@ -17,7 +17,7 @@ content:
   order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
-    tag: ''
+    tag: 'job'
     category: ''
     publication_type: ''
     exclude_featured: false
