@@ -5,7 +5,6 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Articles
-subtitle: {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
 weight: 3
 
 content:
