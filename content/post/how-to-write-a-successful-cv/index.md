@@ -6,7 +6,7 @@ featured: true
 tags:
   - article
 image:
-  filename: cv.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
