@@ -2,7 +2,7 @@
 title: How to Write a successful CV
 date: 2021-04-22T15:08:46.280Z
 draft: false
-featured: false
+featured: true
 tags:
   - article
 image:
