@@ -15,7 +15,7 @@ content:
   order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
-    tag: 'article'
+    tag: ''
     category: ''
     publication_type: ''
 design:
