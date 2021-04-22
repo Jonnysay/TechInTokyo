@@ -2,7 +2,7 @@
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-title: work in progress
+title: Tech Industry in Tokyo
 
 # This file represents a page section.
 headless: true
@@ -16,7 +16,7 @@ design:
   
   background:
     # Name of image in `assets/media/`.
-    image: tokyotower.jpg
+    image: coding.jpg
     
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
