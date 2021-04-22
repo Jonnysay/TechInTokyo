@@ -2,11 +2,11 @@
 title: COVID Update Tokyo
 date: 2021-04-22T15:07:44.729Z
 draft: false
-featured: false
+featured: true
 tags:
   - article
 image:
-  filename: tokyo_shibuya.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
