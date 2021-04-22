@@ -11,4 +11,4 @@ weight: 4
 
 ---
 
-{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+{{< cta cta_text="Archive" cta_link="/" cta_new_tab="false" >}}
