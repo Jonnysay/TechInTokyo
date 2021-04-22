@@ -4,22 +4,24 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+title: More Articles
+weight: 3
 
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: post
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
-    tag: ''
+    tag: 'article'
     category: ''
     publication_type: ''
-    exclude_featured: false
+    exclude_featured: true
     exclude_past: false
     exclude_future: false
 design:
