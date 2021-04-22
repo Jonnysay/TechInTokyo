@@ -2,11 +2,11 @@
 title: Tech in Tokyo Salary Guide
 date: 2021-04-22T14:58:02.455Z
 draft: false
-featured: false
+featured: true
 tags:
   - article
 image:
-  filename: salary_guide.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
