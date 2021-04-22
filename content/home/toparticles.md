@@ -3,8 +3,8 @@ widget: featured
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Featured Article
-weight: 2
+title: What's new in Tokyo?
+weight: 1
 
 content:
   # Page type to display. E.g. post, event, or publication.
