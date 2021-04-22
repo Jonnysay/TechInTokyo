@@ -32,6 +32,7 @@ design:
   #   4 = Citation (publication only)  
   view: 2
 
+{{< cta cta_text="Article Archive" cta_link="/" cta_new_tab="false" >}}
+
 ---
 
-{{< cta cta_text="Article Archive" cta_link="/" cta_new_tab="false" >}}
