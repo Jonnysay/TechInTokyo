@@ -3,6 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 title: Tech Industry in Tokyo
+hide: true
 
 # This file represents a page section.
 headless: true
