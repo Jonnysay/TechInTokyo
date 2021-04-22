@@ -1,36 +1,33 @@
 ---
 title: Backend Engineer Golang/AWS
+subtitle: Merpay
 date: 2021-04-21T14:10:45.583Z
 draft: false
 featured: false
+tags:
+  - job
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
+**Software Engineer at Merpay Inc.**\
+https://www.merpay.com/\
+Working at Merpay\
+Merpay is home to some of the greatest experts within Mercari Group. Our commitment to a culture of openness allows members to discuss architecture on Slack channels organized by business domain, send pull requests to each other on GitHub, and share knowledge on the internal Wiki. We hold “Go Friday” and other weekly study groups for engineers but open to all, encouraging engineers to help one another grow. Some members have no experience developing in Go before they join, but we help turn them into Go enthusiasts early on through involvement in our internal Go community and “Gopher Dojo,” our short-term, intensive training. Members further develop their expertise while demonstrating their abilities at both internal and external engineering community events.\
+\
+Job Description
 
-**ML Engineer, Space Maps**\
-Who are we looking for?\
-As a Machine Learning Engineer in the Automated Mapping Platform team, you are a highly skilled software engineer and especially a specialist in Python or C++ playing a key role building our state-of-art machine learning pipeline. You are willing to utilize your “superpower” in Deep Learning and Image Processing, and you are also enthusiastic to learn and leverage cutting edge mapping technology to build a global ecosystem for the emerging new automated mobility industry. \
+Handle web application and API development in Go\
+API/interface design for microservices using Protocol Buffers and gRPC\
+Improving services and measuring effectiveness using quantitative and qualitative analysis on user behavior logs, etc.\
+Design architecture and select middleware based on application requirements\
+Microservice performance tuning, monitoring, and alert handling\
 \
-Responsibilities\
-- Design and develop robust machine learning pipelines in different complex scenarios\
-- Design and build state-of-art machine learning algorithms in automated mapping industries from aerial/satellite imagery and probe data\
-- Involved in the process of maintaining the map database used by millions users at global scale.\
-- Work closely with top solution engineers in cross-functional teams to determine quality, responsibility and associated timelines\
-\
-Minimum Qualifications\
-- Bachelor's degree in Computer Science, Physics, Mathematics or closely related field\
-- 4+ years of relevant work experience in development of product using Machine - Learning/Deep Learning and Image Processing technology\
-- Develop solutions for real-world Large-scale (millions of devices) problems\
-- Experience specifically with machine learning framework, PyTorch or - Tensorflow or Keras, with high level coding skills in C++ and/or Python\
-- Proficiency in English\
-\
-Preferred Qualifications\
-- Experience in the field of mixing remote sensing and geography\
-- Experience with AWS\
-- Agile/Scrum Experience and Working knowledge of typical agile tools (Git, Jenkins, Docker, JIRA, Confluence etc)\
-- Experience specifically with tools for spatial analysis, gdal, QGIS
-
-<!--EndFragment-->
+Required Experience\
+Shared belief in Merpay’s mission and values\
+Knowledge and experience in web application development\
+Experience designing schemas and creating efficient queries for databases (such as RDB, NoSQL, etc.)\
+Experience operating web applications and conducting performance tuning, knowledge in security\
+Experience selecting middleware and designing software architecture\
+Ability to take ownership and lead the software development process
