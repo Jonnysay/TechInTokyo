@@ -11,8 +11,7 @@
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 {{ if eq $item.Type "post" }}
-  {{ $icon_pack = "fas" }}
-  {{ $icon = "fa-fire" }}
+  {{ $icon = "fas fa-fire" }}
 {{ else if eq $item.Type "event" }}
   {{ $icon = "fa-calendar-alt" }}
 {{ else if eq $item.Type "publication" }}
