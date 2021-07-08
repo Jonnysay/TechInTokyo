@@ -1,5 +1,5 @@
 ---
-title: What makes a good engineering resume for the Japanese job market?
+title: What makes a good engineering resume for Japan?
 date: 2021-04-22T15:08:46.280Z
 draft: false
 featured: true
@@ -38,6 +38,6 @@ The technical skill section is the first place I look at when screening a resume
 
 In terms of formatting and design, I like to keep it simple. Don’t add any noise distracting from the content with bright colors, symbols and photos. While Japanese resumes traditionally required a photo, it’s not the standard for English resumes (anti-discrimination laws in the US and UK) and I generally think it looks more professional to leave it out.
 
-To exemplify all points above, have a look at my simple resume sample here and feel free to use it. I hope this information is helpful for you and as always, I’d appreciate your constructive feedback!
+To exemplify all points above, have a look at my simple resume sample [here](https://drive.google.com/file/d/1MydeLpyIij84htj4zyTQKOElRKYdllOW/view?usp=sharing) and feel free to use it. I hope this information is helpful for you and as always, I’d appreciate your constructive feedback!
 
 <!--EndFragment-->
