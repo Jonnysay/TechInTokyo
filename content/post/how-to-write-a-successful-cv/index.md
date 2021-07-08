@@ -8,7 +8,7 @@ authors:
 tags:
   - article
 image:
-  filename: hr-process-4783430_1920.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
