@@ -10,7 +10,7 @@ headless: true
 weight: 15
 
 title: Meet the Team
-subtitle: We (Jon and Shaun) are two tech recruiters working at Randstad in Tokyo and...
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
