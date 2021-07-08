@@ -1,8 +1,10 @@
 ---
-title: An Engineering Resume for the Japanese Market
+title: What makes a good engineering resume for the Japanese job market?
 date: 2021-04-22T15:08:46.280Z
 draft: false
 featured: true
+authors:
+  - admin
 tags:
   - article
 image:
@@ -10,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-What’s a good engineering resume for the Japanese job market? I spoke to hiring managers at tech companies here in Tokyo and would like to share five points that I think will make a good CV.  At the end of the article, I’ll also include a link of a sample resume format that you can use!
+I spoke to hiring managers at tech companies here in Tokyo and would like to share five points that I think will make a good CV.  At the end of the article, I’ll also include a link of a sample resume format that you can use!
 
 **Focus on the relevant but don’t limit yourself to one page**
 
