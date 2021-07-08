@@ -18,16 +18,14 @@ organizations:
   url: "https://www.randstad.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Work in progress
+bio: 
 
 interests:
-- something
+
 
 education:
   courses:
-  - course: x
-    institution: x
-    year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:shaun.gwee@randstad.co.jp'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/shaungwee/
