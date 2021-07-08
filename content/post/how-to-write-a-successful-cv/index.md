@@ -6,7 +6,7 @@ featured: true
 tags:
   - article
 image:
-  filename: featured.jpg
+  filename: hr-process-4783430_1920.png
   focal_point: Smart
   preview_only: false
 ---
