@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:jonathan.say@randstad.co.jp'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jonathansay/
