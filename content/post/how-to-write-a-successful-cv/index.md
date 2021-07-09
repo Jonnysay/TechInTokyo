@@ -2,7 +2,7 @@
 title: What makes a good engineering resume for Japan?
 date: 2021-04-22T15:08:46.280Z
 draft: false
-featured: true
+featured: false
 authors:
   - admin
 tags:
