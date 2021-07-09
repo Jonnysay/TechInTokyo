@@ -12,23 +12,17 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I spoke to hiring managers at tech companies here in Tokyo and would like to share five points that I think will make a good CV.  At the end of the article, I’ll also include a link of a sample resume format that you can use!
+I spoke to hiring managers at tech companies here in Tokyo and would like to share three points that I think will make a good CV.  At the end of the article, I’ll also include a link of a sample resume format that you can use!
 
 **Focus on the relevant but don’t limit yourself to one page**
 
+There’s a good chance that the person screening your resume has a certain set of keywords in their mind that they will look out for. While hiring managers will ideally look at your experience in a more holistic way and understand transferrable skills as well, I do recommend highlighting any relevant experiences and skills that are mentioned in the job description of the position you're applying for. You don’t have to go as far as some applicants who create a customized resume for every position. Also, you shouldn’t include any keywords or technologies that you are actually not proficient in. If possible, you want to present your experience like a story that makes you look like the right candidate for the position you’re applying for. Putting emphasis on the most relevant skills and experiences and excluding the irrelevant ones can help convincing the reviewer that you are the right candidate for the job.  
+
 Unlike the US, there’s no standard that limits resumes to one page in Japan. Especially for senior people with more than ten years of experience, one page can be rather short. I find two, sometimes three pages ideal to present all relevant information in detail without overwhelming the reviewer with too much text.
-
-**Tell a (YOUR) story**
-
-Ideally, you want to present your experience like a story that makes you look like the ideal candidate for the position you’re applying for. This means, you should focus any experience and educational background relevant for this role. For an engineering position, you could include your IT support part time job during university but you might want to leave out working as a barista at Starbucks.
 
 **The STAR format will not only help you nail your interviews**
 
 STAR is an acronym for “Situation, Task, Action, Results” and is the recommended interview framework for big tech companies such as Amazon. Following STAR, you will be able to organize your answers in a more logical way and it will also help you to stay on topic. You can use the same structure to describe your work experience on your resume. Many applicants only focus on Task, i.e. their responsibilities at a job and don’t mention challenges they had to overcome (Situation), the actions they personally took as well as the results and impact their work had. Those points are all as important as your job description in the eyes of a hiring manager.
-
-**Give the reader what they want**
-
-There’s a good chance that the person screening your resume has a certain set of keywords in their mind that they will look out for. While hiring managers will ideally look at your experience in a more holistic way and understand transferrable skills as well, I do recommend highlighting any relevant experience you may have that relates to the job description. You don’t have to go as far as some applicants who create a customized resume for every position. Also, you shouldn’t include any keywords or technologies that you are actually not proficient in. However, putting emphasis on the most relevant skills and excluding irrelevant skills and experiences can help convincing the reviewer that you are the right candidate for the job.
 
 **Style matters**
 
