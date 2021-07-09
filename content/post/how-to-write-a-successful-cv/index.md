@@ -12,7 +12,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I spoke to hiring managers at tech companies here in Tokyo and would like to share three points that I think will make a good CV.  At the end of the article, I’ll also include a link of a sample resume format that you can use!
+I spoke to hiring managers at tech companies here in Tokyo and would like to share three points that I think make a good CV.  At the end of the article, I’ll also include a link of a sample resume format that you can use!
 
 **Focus on the relevant but don’t limit yourself to one page**
 
