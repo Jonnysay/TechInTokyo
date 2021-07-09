@@ -8,7 +8,7 @@ authors:
 tags:
   - article
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
